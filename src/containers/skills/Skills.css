@@ -16,7 +16,7 @@
 }
 
 .skills-heading {
-  font-size: 56px;
+  font-size: 50px;
   font-weight: 400;
 }
 
@@ -36,7 +36,7 @@
     line-height: normal;
   }
   .skills-main-div {
-    flex-direction: column
+    flex-direction: column;
   }
   .skills-text-div {
     margin-left: 0px;

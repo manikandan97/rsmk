@@ -6,13 +6,13 @@
 }
 
 .contact-title {
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 400;
 }
 .contact-detail,
 .contact-detail-email {
   margin-top: 20px;
-  font-size: 40px;
+  font-size: 25px;
   font-weight: 400;
   color: #868e96;
 }

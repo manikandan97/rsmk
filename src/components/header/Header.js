@@ -5,7 +5,7 @@ function Header() {
   return (
     <div>
       <header className="header">
-        <a href="http://www.rsmk.tech/" className="logo">
+        <a href="https://www.rsmk.tech/" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">Manikandan</span>
           <span className="grey-color">/&gt;</span>
