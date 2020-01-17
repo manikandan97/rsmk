@@ -21,7 +21,12 @@ export default function StartupProject() {
                   className="saaya-health-div"
                   onClick={() => openProjectInNewWindow(project.link)}
                 >
-                  <img alt="Saad Working" src={project.image}></img>
+                  <img
+                    alt="working"
+                    src={project.image}
+                    height="200"
+                    width="200"
+                  ></img>
                 </div>
               );
             })}

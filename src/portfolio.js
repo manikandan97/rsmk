@@ -89,26 +89,13 @@ const projects = {
   projects: [
     {
       image:
-        "https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
-      link: "http://google.com/"
-    }
-  ]
-};
-
-const blogSection = {
-  /* Blogs Section */
-
-  title: "Blogs",
-  subtitle:
-    "With Love for Developing cool stuff. i love to write and teach others what i have learned",
-
-  blogs: [
+        "https://docs.google.com/uc?export=download&id=1Hm59yGTDsSA_5Oe5d7clSoVBPaJSXS04",
+      link:
+        "https://play.google.com/store/apps/details?id=com.musttrygro.musttryapp"
+    },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      image: "https://miro.medium.com/max/1280/1*o08b2PW-1PVs94riZuhNMA.png",
-      title: "Why REACT Is The Best?",
-      description:
-        "React is a JavaScript library for building the user interface. It is maintained by Facebook and a community of individual developers and companies."
+      image: "https://www.d-devlabs.com/images/Logo%20Multi.png",
+      link: "https://www.d-devlabs.com/"
     }
   ]
 };
@@ -120,11 +107,4 @@ const contactInfo = {
   email_address: "rsmani.kand97@gmail.com"
 };
 
-export {
-  greeting,
-  socialMediaLinks,
-  skillsSection,
-  projects,
-  blogSection,
-  contactInfo
-};
+export { greeting, socialMediaLinks, skillsSection, projects, contactInfo };
