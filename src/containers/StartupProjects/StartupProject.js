@@ -14,7 +14,7 @@ export default function StartupProject() {
         <h1 className="skills-heading">{projects.title}</h1>
         <p className="subTitle project-subtitle">{projects.subtitle}</p>
         <div className="startup-projects-main">
-          <div className="startup-project-text">
+          <div className="startup-project-text center">
             {projects.projects.map(project => {
               return (
                 <div
@@ -24,9 +24,11 @@ export default function StartupProject() {
                   <img
                     alt="working"
                     src={project.image}
-                    height="200"
-                    width="200"
+                    height="100"
+                    width="100"
                   ></img>
+
+                  <div className="startup-project-text">{project.title}</div>
                 </div>
               );
             })}

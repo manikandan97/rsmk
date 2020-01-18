@@ -88,14 +88,11 @@ const projects = {
   subtitle: "STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
+      title: "Musttry Groceries",
       image:
         "https://docs.google.com/uc?export=download&id=1Hm59yGTDsSA_5Oe5d7clSoVBPaJSXS04",
       link:
         "https://play.google.com/store/apps/details?id=com.musttrygro.musttryapp"
-    },
-    {
-      image: "https://www.d-devlabs.com/images/Logo%20Multi.png",
-      link: "https://www.d-devlabs.com/"
     }
   ]
 };
