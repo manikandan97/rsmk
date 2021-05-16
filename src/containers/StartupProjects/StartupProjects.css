@@ -7,6 +7,10 @@
   margin-bottom: 30px;
 }
 
+.startup-projects-container {
+  margin-right: 50px;
+}
+
 .starup-project-image > img {
   max-width: 100%;
   height: auto;
@@ -22,6 +26,8 @@
 
 .startup-project-text {
   display: flex;
+  text-align: center;
+  margin-top: 20px;
   justify-content: space-between;
 }
 

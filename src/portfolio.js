@@ -88,11 +88,39 @@ const projects = {
   subtitle: "STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      title: "Musttry Groceries",
+      title: "Toko shope",
       image:
-        "https://docs.google.com/uc?export=download&id=1Hm59yGTDsSA_5Oe5d7clSoVBPaJSXS04",
+        "https://play-lh.googleusercontent.com/I0uvjRNqvk1Th_tTv_tOI01ufb5xXzBC7GSFVQg_l0yw3UGhP6uLx2hVymXCW2rlRrs=s180-rw",
       link:
-        "https://play.google.com/store/apps/details?id=com.musttrygro.musttryapp"
+        "https://play.google.com/store/apps/details?id=com.tokoshope.shop"
+    },
+    {
+      title: "RMR Silks",
+      image:
+        "https://play-lh.googleusercontent.com/mn1WN5CUEzuLxDEZUZfeWQ-jAlh0_GCeZ47UQIXSsSuZoRpw6fGuHoeaRiPksJkVf7I=s180-rw",
+      link:
+        "https://play.google.com/store/apps/details?id=com.rmrsilk.shop"
+    },
+    {
+      title: "Sri Gowri Silks",
+      image:
+        "https://play-lh.googleusercontent.com/ek67dkW_ym9zZgSV73ULUAy12u06SeTH4Bb8nBCCC_ljz-tUdVXVI10w9eK-lPKuHwY=s180-rw",
+      link:
+        "https://play.google.com/store/apps/details?id=com.srigowrisilk.shop"
+    },
+    {
+      title: "Fapro - Farmer's Products",
+      image:
+        "https://play-lh.googleusercontent.com/fttr7f4r2dOd6rRgrb8QHSsZGibc9fMuiFPCH98E6YeK8uQ3Jqja-OpSAeHVg1UTNdD4=s180-rw",
+      link:
+        "https://play.google.com/store/apps/details?id=com.farmersproducts.shop"
+    },
+    {
+      title: "Vidyaan - The Madura College",
+      image:
+        "https://play-lh.googleusercontent.com/BB2tMkWjpC6fL3IeGc3LkAX1PcqEGDDCa1IfwddFt2SA79nqPK1_CpSFzxPlmYpQwg=s180-rw",
+      link:
+        "https://play.google.com/store/apps/details?id=in.edu.maduracollege.vidyaan"
     }
   ]
 };

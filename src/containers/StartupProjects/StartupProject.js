@@ -18,14 +18,14 @@ export default function StartupProject() {
             {projects.projects.map(project => {
               return (
                 <div
-                  className="saaya-health-div"
+                  className="saaya-health-div startup-projects-container"
                   onClick={() => openProjectInNewWindow(project.link)}
                 >
                   <img
                     alt="working"
                     src={project.image}
-                    height="100"
-                    width="100"
+                    height="120"
+                    width="120"
                   ></img>
 
                   <div className="startup-project-text">{project.title}</div>
